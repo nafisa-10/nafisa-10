@@ -16,7 +16,6 @@
 - 💡 Currently learning **Data Structures & Algorithms** in C++
 - 🎨 Exploring **UI/UX Design** — turning ideas into beautiful interfaces
 - 🔨 Building real projects to sharpen my skills every day
-- 🤝 Open to **internships, collaborations, and learning opportunities**
 - 📍 Based in **Bangladesh**
 
 ---
