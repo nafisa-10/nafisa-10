@@ -71,11 +71,11 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Goals
 
-- [ ] 🚀 Complete Data Structures & Algorithms in C++
-- [ ] ☕ Build a project using Java
-- [ ] 🎨 Design 5 complete UI screens in Figma
+- 🚀 Complete Data Structures & Algorithms in C++
+- ☕ Build a project using Java
+- 🎨 Design complete UI screens in Figma
 
 ---
 
