@@ -12,11 +12,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Computer Science student passionate about **programming & design**
-- 💡 Currently learning **Data Structures & Algorithms** in C++
-- 🎨 Exploring **UI/UX Design** — turning ideas into beautiful interfaces
-- 🔨 Building real projects to sharpen my skills every day
-- 📍 Based in **Bangladesh**
+🎓 Computer Science student passionate about **programming & design**
+💡 Currently learning **Data Structures & Algorithms** in C++
+🎨 Exploring **UI/UX Design** — turning ideas into beautiful interfaces
+🔨 Building real projects to sharpen my skills every day
+📍 Based in **Bangladesh**
 
 ---
 
@@ -73,9 +73,9 @@
 
 ## 🎯 Goals
 
-- 🚀 Complete Data Structures & Algorithms in C++
-- ☕ Build a project using Java
-- 🎨 Design complete UI screens in Figma
+- Complete Data Structures & Algorithms in C++
+- Build a project using Java
+- Design complete UI screens in Figma
 
 ---
 
